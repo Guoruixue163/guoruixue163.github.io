@@ -4,3 +4,5 @@ description: From Zero to the DevOps
 author: shaonbean
 language: zh-CN
 timezone: Asia/Shanghai
+
+theme: jekyll-theme-cayman
